@@ -1,4 +1,5 @@
-modelo\App.class
+modelo/App.class
+modelo/PrimaryController.class
 module-info.class
-modelo\PrimaryController.class
-modelo\SecondaryController.class
+modelo/SecondaryController.class
+modelo/ViewLoginController.class
