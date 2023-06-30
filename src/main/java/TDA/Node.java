@@ -41,4 +41,8 @@ class Node<E> {
     public void setPrevious(Node<E> previous){
         this.previous=previous;
     }
+    
+    public boolean equals(Node<E> n){
+        return this.getContent().equals(n.getContent());
+    }
 }
